@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shorna
-- 👀 I’m interested in Blockchain Technology ,Cryto and new technology
+- 👀 I’m interested in Blockchain Technology ,Crypto and new technology
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on Blockchain project
 - 📫 How to reach me sanjidanahid53@gmail.com
