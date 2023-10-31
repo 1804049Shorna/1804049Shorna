@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shorna
 - 👀 I’m interested in Blockchain Technology ,Crypto ,De-fi ,DAPP
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently building dapps
 - 💞️ I’m looking to collaborate on Blockchain project
 - 📫 How to reach me sanjidanahid53@gmail.com
 
