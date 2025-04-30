@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Shorna<br>👀 I’m interested in Blockchain Technology ,Crypto ,De-fi ,DAPP<br>🌱 I’m currently building dapps<br>💞️ I’m looking to collaborate on Blockchain project<br>📫 How to reach me sanjidanahid53@gmail.com
+👋 Hi, I’m Sharna<br>👀 I’m interested in Blockchain Technology ,Crypto ,De-fi ,DAPP<br>🌱 I’m currently building dapps<br>💞️ I’m looking to collaborate on Blockchain project<br>📫 How to reach me sanjidanahid53@gmail.com
 
 
 ## 🌐 Socials:
